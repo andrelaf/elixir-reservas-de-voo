@@ -1,0 +1,7 @@
+{
+  "skip_files": [
+    "test/support",
+    "lib/bookings/agent.ex",
+    "lib/users/agent.ex"
+  ]
+}
